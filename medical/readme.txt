@@ -27,7 +27,4 @@ FIRST Download
 
 Admin
 user: admin@gmail.com
-pass: admin
-
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
+pass: 
